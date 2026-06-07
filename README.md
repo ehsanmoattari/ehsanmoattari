@@ -37,7 +37,6 @@ I spent 14 years in the power industry and electrical networks, with the last 7 
 
 ## 📫 Connect With Me
 
-- **Ponisha (Freelance):** [My Profile](https://ponisha.ir/profile/fotonehsan)
 - **Email:** moattariehsan@gmail.com
 - **GitHub:** [emoatari](https://github.com/emoatari)
 
