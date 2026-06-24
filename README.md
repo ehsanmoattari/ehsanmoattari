@@ -1,51 +1,32 @@
 # 👋 Hi, I'm Ehsan Moattari
 
-**Front-End Developer | WordPress Performance Specialist | 14 Years in Power Industry**
+**Front-End Developer** with 1 year of hands-on experience and **14 years of professional background** in team coordination and office management. I blend technical skills with business acumen to build clean, functional, and user-friendly web solutions.
 
 ---
 
-## 🚀 About Me
+## 🔧 Core Competencies
 
-I spent 14 years in the power industry and electrical networks, with the last 7 years as an office manager and team coordinator. After learning web development, I decided to combine technical skills with business management experience.
-
-- 🎯 Deep understanding of real business needs
-- 📊 Project management & effective client communication
-- ⏱️ Commitment to on-time, quality delivery
-
----
-
-## 💻 Tech Stack
-
-| Category | Skills |
-|----------|--------|
-| **Front-End** | HTML5, CSS3, Bootstrap 5, TailwindCSS |
-| **Currently Learning** | JavaScript (Advanced), React |
-| **WordPress** | Custom Theming, WooCommerce, Speed Optimization (90+ PageSpeed) |
-| **Tools** | Git, GitHub |
+- **Front-End:** HTML5, CSS3, Bootstrap 5, TailwindCSS
+- **CMS:** WordPress, WooCommerce (Custom Theming & Optimization)
+- **Currently Learning:** JavaScript (Advanced), React, Node.js
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 📁 Featured Projects
+## 📌 Featured Projects
 
-| Project | Description | Tech | Live Demo |
-|---------|-------------|------|------------|
-| **Corporate Website** | Complete 5-page business website | Bootstrap 5 | [View](https://emoatari.github.io/corporate-website) |
-| **Stellux Gallery** | Live jewelry e-commerce store | WordPress | [View](https://stelluxgallery.com) |
-| **High-Speed Landing Page** | 100/100 Google PageSpeed score | Kadence/WordPress | Coming Soon |
+| Project | Description | Live Demo |
+| :--- | :--- | :--- |
+| **Stellux Gallery** | Live jewelry e‑commerce store (WordPress) | [View](https://stelluxgallery.com) |
+| **Corporate Website** | 5‑page business site (Bootstrap 5) | [View](https://emoatari.github.io/corporate-website) |
+| **Admin Dashboard** | Interactive data dashboard (Chart.js) | [View](https://emoatari.github.io/modernshop-dashboard) |
 
----
-
-## 📫 Connect With Me
-
-- **Email:** moattariehsan@gmail.com
-- **GitHub:** [emoatari](https://github.com/emoatari)
+> 🔗 Full portfolio and source code available in my [portfolio repository](https://github.com/emoatari/portfolio).
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect
 
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emoatari&show_icons=true&theme=cobalt)
-
----
-
-> 📌 *I'm available for freelance projects in front-end development and WordPress optimization. Feel free to reach out!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsan-moattari)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emoatari)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moattariehsan@gmail.com)
