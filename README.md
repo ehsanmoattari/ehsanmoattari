@@ -6,7 +6,7 @@
 
 ## 🔧 Core Competencies
 
-- **Front-End:** HTML5, CSS3, Bootstrap 5, TailwindCSS
+- **Front-End:** HTML5, CSS3, TailwindCSS
 - **CMS:** WordPress, WooCommerce (Custom Theming & Optimization)
 - **Currently Learning:** JavaScript (Advanced), React, Node.js
 - **Tools:** Git, GitHub, VS Code
