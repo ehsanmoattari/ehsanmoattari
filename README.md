@@ -1,32 +1,30 @@
-# 👋 Hi, I'm Ehsan Moattari
+# Hi, I'm Ehsan Moattari 👋
 
-**Front-End Developer** with 1 year of hands-on experience and **14 years of professional background** in team coordination and office management. I blend technical skills with business acumen to build clean, functional, and user-friendly web solutions.
+I'm transitioning into web development with a focus on building practical products that solve real problems.
 
----
+My background includes building WordPress and WooCommerce websites, and I'm now strengthening my programming skills to create custom tools, plugins, and eventually SaaS products.
 
-## 🔧 Core Competencies
+## 🎯 Current Focus
 
-- **Front-End:** HTML5, CSS3, TailwindCSS
-- **CMS:** WordPress, WooCommerce (Custom Theming & Optimization)
-- **Currently Learning:** JavaScript (Advanced), React, Node.js
-- **Tools:** Git, GitHub, VS Code
+- Learning JavaScript and modern web development fundamentals
+- Starting PHP and exploring WordPress plugin development
+- Practicing HTML, CSS, Git, and GitHub through hands-on projects
+- Exploring ideas for useful WordPress products and SaaS tools
 
----
+## 🛠️ Technologies
 
-## 📌 Featured Projects
+**Current foundations:** HTML, CSS, JavaScript
 
-| Project | Description | Live Demo |
-| :--- | :--- | :--- |
-| **Stellux Gallery** | Live jewelry e‑commerce store (WordPress) | [View](https://stelluxgallery.com) |
-| **Corporate Website** | 5‑page business site (Bootstrap 5) | [View](https://ehsanmoattari.github.io/corporate-website) |
-| **Admin Dashboard** | Interactive data dashboard (Chart.js) | [View](https://ehsanmoattari.github.io/modernshop-dashboard) |
+**Learning next:** PHP, WordPress plugin development, and MySQL
 
-> 🔗 Full portfolio and source code available in my [portfolio repository](https://github.com/ehsanmoattari/portfolio).
+**Tools:** Git, GitHub, VS Code
 
----
+## 🚀 What I'm Building Toward
 
-## 📫 Let's Connect
+My long-term goal is to build and launch practical digital products, starting with the WordPress ecosystem and expanding into SaaS where it makes sense.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsan-moattari)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ehsanmoattari)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moattariehsan@gmail.com)
+I believe in learning by building, improving through feedback, and turning real problems into useful products.
+
+## 📌 Projects
+
+I'm working toward building a portfolio of practical projects. This section will highlight my best repositories as they become ready to share.
